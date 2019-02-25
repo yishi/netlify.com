@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public
+static/figures
+blogdown
+
+git rm -r --cached public
+
+# 然后在.gitignore文件添加规则
+public
+
