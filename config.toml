@@ -14,12 +14,15 @@ hasCJKLanguage = true
 [[menu.main]]
     name = "关于"
     url = "/about/"
+    weight = 1
 [[menu.main]]
     name = "Linkedin"
     url = "http://www.linkedin.com/in/beibeikong"
+    weight = 2
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/yishi"
+    weight = 3
 
 
 [params]
