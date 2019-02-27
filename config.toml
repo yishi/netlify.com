@@ -12,17 +12,18 @@ hasCJKLanguage = true
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About关于"
+    name = "关于"
     url = "/about/"
+[[menu.main]]
+    name = "Linkedin"
+    url = "http://www.linkedin.com/in/beibeikong"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/yishi"
-#[[menu.main]]
-#    name = "Twitter"
-#    url = "https://twitter.com/rstudio"
+
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A website about R Python and Data."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
