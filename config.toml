@@ -7,7 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 hasCJKLanguage = true
-enableEmoji = true
+#enableEmoji = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
