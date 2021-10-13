@@ -1,0 +1,16 @@
+
+
+blockquote p {
+		font-weight: bold;
+	    color: blue
+}
+
+hr {
+	border-width: 1px 0 0 0 !important;
+	border-top-style: dashed !important;
+	border-color: blue !important;
+}
+
+h1 {
+	font-size: 24px;
+}
